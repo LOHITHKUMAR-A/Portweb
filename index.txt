@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++91 6361984970
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Bengaluru, Karnataka, India
 
 # navbar
 
