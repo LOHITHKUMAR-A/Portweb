@@ -1882,11 +1882,4 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
-.logo {
-  background-image: url(https://github.com/LOHITHKUMAR-A/Portweb/blob/main/assets/images/powerbi_logo_icon_248795.jpg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  width: 24px;
-  height: 24px;
-}
 
