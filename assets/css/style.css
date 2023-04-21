@@ -1881,3 +1881,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
+
+.logo {
+  background-image: url(path/to/logo-image-file.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50px;
+  height: 50px;
+}
+
